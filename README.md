@@ -6,8 +6,10 @@ Atualmente, o projeto está em sua versão inicial e já possui suporte para tr�
 
 🚀 Tecnologias Utilizadas
 - Java
-
-- Biblioteca: java.util.Objects
+  
+📚 Bibliotecas:
+- java.util.Objects
+- java.util.ArrayList
 
 ## 📦 Como Executar o Projeto
 
